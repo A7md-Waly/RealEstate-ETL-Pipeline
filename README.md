@@ -40,8 +40,8 @@ RealEstate-ETL-Pipeline/
 
 ## Prerequisites
 
-- Docker Engine 20.10+
-- Docker Compose 2.0+
+- Docker Engine 
+- Docker Compose 
 - Minimum 8GB RAM
 - 20GB available disk space
 
@@ -228,10 +228,6 @@ docker compose restart [service_name]
 - **Message Queue**: Redis 7.2
 - **Containerization**: Docker & Docker Compose
 - **Language**: Python 3.12
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
