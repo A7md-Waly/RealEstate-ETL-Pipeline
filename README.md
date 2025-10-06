@@ -232,4 +232,5 @@ docker compose restart [service_name]
 ## Author
 
 **Ahmed Waly**
+- LinkedIn: [@Ahmd-Waly](https://www.linkedin.com/in/ahmd-waly/)
 - GitHub: [@A7md-Waly](https://github.com/A7md-Waly)
