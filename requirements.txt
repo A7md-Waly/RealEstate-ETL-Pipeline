@@ -1,0 +1,4 @@
+hdfs
+requests
+jaydebeapi
+JPype1==1.4.1
